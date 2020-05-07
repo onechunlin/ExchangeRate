@@ -52,3 +52,6 @@ fetch("item.json", {
 第二个参数可以设置请求的方法以及请求头。
 
 `number.toFixed(2)`保留两位小数
+
+### 效果展示
+[点此查看效果](http://www.onechunlin.top/ExchangeRate/)
